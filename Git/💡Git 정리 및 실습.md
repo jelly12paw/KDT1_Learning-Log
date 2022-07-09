@@ -133,7 +133,7 @@ $ git config --global user.email '사용자 이메일'
 
 ```bash
 $ git init
-Initialized empty Git repository in C:/Users/Hye/Desktop/TIL/.git/
+Initialized empty Git repository in C:/Users/사용자 이름/Desktop/TIL/.git/
 
 (master) $
 ```
