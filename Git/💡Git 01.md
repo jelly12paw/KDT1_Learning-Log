@@ -125,6 +125,9 @@ c36aab8 마크다운 정리본
 ```bash
 $ git config --global user.name '사용자 이름'
 $ git config --global user.email '사용자 이메일'
+
+# 사용자 확인
+$ git config --global --list 
 ```
 
 
