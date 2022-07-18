@@ -9,8 +9,8 @@
 
 ### 🧡**2주차** (22.07.11 ~ 22.07.15)
 - [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
-  - 01 ~ 04
-- 코드업 파이썬 기초 100제
+  - Python_01 ~ Python_04_실습_문제
+- [코드업 파이썬 기초 100제](https://github.com/jelly12paw/Algorithm/tree/main/CodeUp)
 - 개인 프로젝트
 
 ### 💛**3주차** (22.07.18 ~ 22.07.22)
