@@ -14,5 +14,7 @@
 - [2주차 개인 프로젝트](https://github.com/jelly12paw/01-PJT-01/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
 
 ### 💛**3주차** (22.07.18 ~ 22.07.22)
-- Python 기초 문법
+- [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
+  - Python_05 ~
+- [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON)
 - 개인 프로젝트
