@@ -8,7 +8,8 @@
 - 특강
 
 ### 🧡**2주차** (22.07.11 ~ 22.07.15)
-- Python 기초 문법
+- [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
+  - 01 ~ 04
 - 코드업 파이썬 기초 100제
 - 개인 프로젝트
 
