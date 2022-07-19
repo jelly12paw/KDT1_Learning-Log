@@ -17,6 +17,6 @@
 - [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
   - Python_05 ~
 - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON)
-  - 
+  - 입출력과 사칙연산 ~
 - [SWEA 기초 문제](https://github.com/jelly12paw/Algorithm/tree/main/SWEA)
 - 개인 프로젝트
