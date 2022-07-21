@@ -106,7 +106,7 @@ $ source venv/Scripts/activate
 
 #### 3. pip list
 > 가상 환경이 실행되었는지 확인한다.
-> 맨 아래에 (venv) 표시가 있으면 가상 환경이 실행된 것이다.
+> 맨 아래에 `(venv)` 표시가 있으면 가상 환경이 실행된 것이다.
 
 ```bash
 $ pip list
