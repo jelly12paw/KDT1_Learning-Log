@@ -89,6 +89,7 @@ $ python venv/Scripts/activate
 
 #### 2-1. 오류 발생 시 해결 방법
 > `python venv/Scripts/activate` 코드를 실행했을 때 `SyntaxError` 발생
+>
 > `python`을 `source`로 변경해서 실행한다. 
 
 ```bash
@@ -136,6 +137,7 @@ $ which python
 
 #### 5. pip freeze > requeirments.txt
 > 현재 내 컴퓨터에 설치되어 있는 패키지들의 버전 정보를 txt로 만든다.
+>
 > 프로젝트를 진행하기 전 팀원들이 자신의 컴퓨터에 설치된 패키지 버전을 확인하는 용도이다.
 
 ```bash
@@ -146,6 +148,7 @@ $ pip freeze > requeirments.txt
 ```
 requeirments.txt
 
+------------------
 asgiref==3.5.2
 Django==4.0.6
 sqlparse==0.4.2
