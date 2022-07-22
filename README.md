@@ -5,6 +5,7 @@
 ### ❤**1주차** (22.07.04 ~ 22.07.08)
 - [Markdown](https://github.com/jelly12paw/TIL/tree/main/Markdown)
 - [Git](https://github.com/jelly12paw/TIL/tree/main/Git)
+  - Git 01 ~ Git 02
 - 특강
 
 ### 🧡**2주차** (22.07.11 ~ 22.07.15)
@@ -15,8 +16,20 @@
 
 ### 💛**3주차** (22.07.18 ~ 22.07.22)
 - [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
-  - Python_05 ~
+  - Python_05 ~ Python_09
+- [Git](https://github.com/jelly12paw/TIL/tree/main/Git)
+  - Git 03  
 - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON)
-  - 입출력과 사칙연산 ~
+  - 입출력과 사칙연산 ~ 함수
 - [SWEA 기초 문제](https://github.com/jelly12paw/Algorithm/tree/main/SWEA)
-- 개인 프로젝트
+  - SWEA 기초 문제 01 ~ SWEA 기초 문제 03
+- [3주차 토이 프로젝트](https://github.com/jelly12paw/01-PJT-02/tree/main/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
+  - 개발 도구
+    - Visual Studio Code
+    - Python 3.9
+    - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
+    
+### 💚**4주차** (22.07.25 ~ 22.07.29)
+
+### 💙**5주차** (22.08.01 ~ 22.08.05)
+    
