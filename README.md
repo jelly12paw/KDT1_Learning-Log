@@ -30,6 +30,12 @@
     - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
     
 ### 💚**4주차** (22.07.25 ~ 22.07.29)
+- [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON)
+  - 문자열 ~ 
+- [SWEA 기초 문제](https://github.com/jelly12paw/Algorithm/tree/main/SWEA)
+  - SWEA 기초 문제 04 ~ 
+- [Programmers 코딩테스트 연습](https://github.com/jelly12paw/Algorithm/tree/main/Programmers)
+  - 코딩테스트 연습 68644 ~
 
 ### 💙**5주차** (22.08.01 ~ 22.08.05)
     
