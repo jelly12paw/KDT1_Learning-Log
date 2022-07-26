@@ -36,6 +36,8 @@
   - SWEA 기초 문제 04 ~ 
 - [Programmers 코딩테스트 연습](https://github.com/jelly12paw/Algorithm/tree/main/Programmers)
   - 코딩테스트 연습 68644 ~
+- [알고리즘 주간](https://github.com/jelly12paw/01-ALGORITHM/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84/20220726)
+  - 20220725 ~
 
 ### 💙**5주차** (22.08.01 ~ 22.08.05)
     
