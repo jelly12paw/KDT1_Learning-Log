@@ -44,7 +44,7 @@
   - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON) : 기본수학 1 ~
   - [SWEA 기초 문제](https://github.com/jelly12paw/Algorithm/tree/main/SWEA) :  
   - [Programmers 코딩테스트 연습](https://github.com/jelly12paw/Algorithm/tree/main/Programmers) : 
-- [알고리즘 주간 - 1주차](https://github.com/jelly12paw/01-ALGORITHM/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
+- [알고리즘 주간 - 2주차](https://github.com/jelly12paw/01-ALGORITHM/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
   - 20220801 ~ 
 - [알고리즘 노트정리](https://github.com/jelly12paw/TIL/tree/main/Python)
   - 알고리즘 04
