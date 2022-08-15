@@ -50,7 +50,7 @@
 - [알고리즘 주간 - 3주차](https://github.com/jelly12paw/01-ALGORITHM/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
   - 20220808 ~ 20220811
 - [알고리즘 노트정리](https://github.com/jelly12paw/TIL/tree/main/Python)
-  - 알고리즘 08 ~
+  - 알고리즘 08 ~ 알고리즘 11
 - [모의고사 03](https://github.com/jelly12paw/01-PJT-05/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
   
 ### 🤎**7주차** (22.08.16 ~ 22.08.19)
