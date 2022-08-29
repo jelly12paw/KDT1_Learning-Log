@@ -122,6 +122,22 @@
 </html>
 ```
 
+### HTML 화면 구성
+![화면구성](https://sungunjo.github.io/assets/img/html5_semantic_tag/standard_web_doc_structure.PNG)
+
+1. `<header>` : 머리말
+    - 주로 페이지 맨 위쪽 혹은 왼쪽
+2. `<nav>` : 네비게이션 링크
+3. `<section>` : 주제 별 콘텐츠 영역
+    - 섹션 제목 표기를 위해 `<h>`태그와 함께 사용
+4. `<article>` : 콘텐츠 내용
+5. `<aside>` : 본문 이외의 내용
+6. `<footer>` : 제작 정보와 저작권 정보
+7. `<address>` : 제작자 정보와 연락처 정보
+8. `<div>` : CSS를 적용해서 시각적 효과를 줄 때 콘텐츠를 묶는 용도
+
+![태그](https://blog.kakaocdn.net/dn/d6Ow2U/btqRCWtaQp2/ImK4OF8fedcdhjetK0OdEK/img.png)
+
 ### CSS 기초 선택자
 1. 요소 선택자 : HTML 태그를 직접 선택
 2. 클래스 선택자 : 마침표 `.`문자로 시작, 해당 클래스가 적용된 항목을 선택
@@ -147,3 +163,9 @@
 </body>
 </html>
 ```
+
+### 웹 접근성 경험하고 느낀 점 작성
+[NULI](https://nax.naver.com/index)
+
+> 비장애인이 사용하는 인터넷 환경에 익숙해져있어서 생각해보지 못한 부분이었다. 장애인이 인터넷 정보를 얻기 위해서 웹 페이지를 어떻게 표현해야하는지 생각해보게 되었다.
+>
