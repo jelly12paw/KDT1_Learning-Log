@@ -44,4 +44,4 @@
   - 20220801 ~ 20220804
 - [알고리즘 노트정리](https://github.com/jelly12paw/TIL/tree/main/Python)
   - 알고리즘 04 ~ 알고리즘 07
-- [모의고사 02](https://github.com/jelly12paw/01-PJT-04/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
+
