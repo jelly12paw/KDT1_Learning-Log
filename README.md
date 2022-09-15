@@ -37,7 +37,6 @@
   - 20220725 ~ 20220728
 - [알고리즘 노트정리](https://github.com/jelly12paw/TIL/tree/main/Python)
   - 알고리즘 01 ~ 알고리즘 03
-- [모의고사 01](https://github.com/jelly12paw/01-PJT-03/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
 
 
 
