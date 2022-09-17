@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>01_JS</title>
+</head>
+<body>
+  <!-- JS코드 작성하는 영역 -->
+  <script>
+    console.log('hello, JS!')
+    alert('JS 학습이 시작되었습니다.')
+    // H1 요소 생성
+    const title = document.createElement('h1')
+    // h1 요소에 텍스트 추가
+    title.innerText = 'JS 기초'
+    // 선택자로 body태그
+    const body = document.querySelector('body')
+    // body태그에 자식요소 추가
+    body.appendChild(title)
+  </script>
+
+  <!-- HTML코드로 작성 -->
+  <h1 id="title">JS 기초</h1>
+  <h2>DOM 조작</h2>
+  <p class="text">querySelector</p>
+  <p class="text">querySelectorAll</p>
+
+  <script>
+    // 선택자를 활용해 선택할 때 하나를 선택 : querySelector
+    // 모든 결과를 선택 : querySelectorAll
+
+    // <h1 id="title">JS 기초</h1>
+    console.log(document.querySelector('#title'))
+    // NodeList(2) [p.text, p.text]
+    console.log(document.querySelectorAll('.text'))
+    // <p class="text">querySelector</p>
+    console.log(document.querySelector('.text'))
+  </script>
+
+  <script>
+    const a  = document.createElement('a')
+    a.innerText = '실라버스'
+    // const body = document.querySelector('body')
+    body.appendChild(a)
+    a.setAttribute('href', 'http://syllaverse.com')
+    console.log(a.getAttribute('href'))
+
+    // h1 tag 조작하기 (class)
+    const h1 = document.querySelector('h1')
+    h1.classList = ['red', 'text-center']
+    h1.classList.replace('red', 'blue')
+  </script>
+
+  <!-- 버튼 조작 -->
+  <button id="btn1">클릭</button>
+  <input type="text">
+
+  <script>
+    const btn1 = document.querySelector('#btn1')
+    btn1.addEventListener('click', function() {
+      const h1 = document.querySelector('h1')
+      h1.classList.toggle('blue')
+    })
+
+    const input = document.querySelector('input')
+    input.addEventListener('input', function(e) {
+      condole.log(e.target.value)
+    }) 
+  </script>
+</body>
+</html>
