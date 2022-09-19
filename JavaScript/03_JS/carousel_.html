@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA_Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>03_JS</title>
+    <style>
+        .car-items {
+            position: relative;
+            display: flex;
+            width: 10rem;
+            height: 10rem;
+            overflow: hidden;
+        }
+        
+        .car-item {
+            position: absolute;
+            top: 0;
+            width: 10rem;
+            height: 10rem;
+            display: none;
+        }
+        
+        .active {
+            display: block;
+            animation: active 1.5s;
+        }
+        
+        @keyframes active {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">   
+        <div class="car-items">
+            <div class="car-item active" style="background-color: red;">1</div>
+            <div class="car-item" style="background-color: orange;">2</div>
+            <div class="car-item" style="background-color: yellow;">3</div>
+            <div class="car-item" style="background-color: yellowgreen;">4</div>
+            <div class="car-item" style="background-color: blue;">5</div>
+            <div class="car-item" style="background-color: navy;">6</div>
+            <div class="car-item" style="background-color: blueviolet;">7</div>
+        </div>
+    </div>
+    <button id="pre-btn">Previous</button>
+    <button id="next-btn">Next</button>
+    <script src="../03_JS/carousel_.js" defer></script>
+</body>
+</html>
