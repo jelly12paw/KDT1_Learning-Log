@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA_Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lottery_ball</title>
+    <style>
+        .body-css {
+            height: 100%;
+            width: 100%;
+            background-color: rgb(248, 245, 210);
+        }
+
+        .ball {
+            width: 10rem;
+            height: 10rem;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 10rem;
+            font-size: 5rem;
+            font-weight: bold;
+            box-shadow: 5px 5px lightgray;
+            margin: 0.5rem;
+        }
+
+        .ball-container {
+            display: flex;
+        }
+
+        .btn {
+            margin-bottom: 2rem;
+            margin-left: 2rem;
+        }
+
+        .result-css {
+            margin-top: 2rem;
+            width: 70rem;
+            height: 13rem;
+            border-style: solid;
+            border-color: goldenrod;
+            border-radius: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: whitesmoke;
+        }
+
+        .cnt-css {
+            height: 1.2rem;
+        }
+    </style>
+</head>
+<body class="body-css">
+    <h1 style="text-align: center; font-weight: 800;"> 🎰 로또 추천 번호</h1>
+    <div style="display: flex; justify-content:center">
+        <button class="btn" id="lotto-btn" style="margin-top: 1rem;">💰 오늘의 번호</button>
+    </div>
+    <div style="display: flex; justify-content: center;">
+        <div class="result-css" id="result"></div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+    <script src="/04_JS/lotto.js"></script>
+</body>
+</html>

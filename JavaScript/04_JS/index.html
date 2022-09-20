@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA_Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lottery_ball</title>
+    <style>
+        .ball {
+            width: 7rem;
+            height: 7rem;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 7rem;
+            font-size: 3rem;
+            font-weight: 600;
+            box-shadow: 5px 5px lightgray;
+            margin: 1rem;
+            background-color: greenyellow;
+        }
+        .ball-container {
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <h1>로또 추첨 번호</h1>
+    <button id="lotto-btn">추첨</button>
+    <!-- <div class="ball-container" style="display: flex; flex-direction: row; border-color: gray; width: 66rem; height: 10rem; border-style: solid;">    
+        <div class="ball" style="background-color: gold;">5</div>
+        <div class="ball" style="background-color: greenyellow;">20</div>
+        <div class="ball" style="background-color: lightskyblue;">17</div>
+        <div class="ball" style="background-color: lightcoral;">42</div>
+        <div class="ball" style="background-color: yellow;">11</div>
+        <div class="ball" style="background-color: orangered;">4</div>
+        <h1 style="font-size:xx-large; margin-top: 3rem;">+</h1>
+        <div class="ball" style="background-color: green;">29</div>
+    </div> -->
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js">
+        const button = document.querySelector('#lotto-btn');
+        button.addEventListener('click', function() {
+            const ballContainer = document.createElement('div');
+            ballContainer.classList.add('ball-container');
+            const nums = _.sampleSize(_.range(1, 46), 7);
+            console.log(nums[0]);
+            
+            const ball = document.createElement('div');
+            ball.classList.add('ball');
+            ball.innerText = nums
+            ballContainer.appendChild(ball);
+            const result = document.querySelector('#result');
+            result.appendChild(ballContainer);
+        })
+    </script>
+</body>
+</html>
