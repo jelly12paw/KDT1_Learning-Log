@@ -35,4 +35,3 @@
   - [Programmers 코딩테스트 연습](https://github.com/jelly12paw/Algorithm/tree/main/Programmers) : 코딩테스트 연습 68644
 - [알고리즘 주간 - 1주차](https://github.com/jelly12paw/01-ALGORITHM/tree/master/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
   - 20220725 ~ 20220728
-- [알고리즘 노트정리](https://github.com/jelly12paw/TIL/tree/main/Python)
