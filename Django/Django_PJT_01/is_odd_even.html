@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odd or Even</title>
+
+</head>
+
+<body>
+    <h1>A Number is <span style="color: greenyellow; font-weight: bold;">ODD</span> OR <span
+            style="color: crimson; font-weight: bold;">EVEN</span></h1>
+
+    <h1>{{ nums }} is
+
+        {% if nums_result == 'EVEN' %}
+        <span style="color: crimson; font-weight: bold;">EVEN</span>
+        {% elif nums_result == 'ODD' %}
+        <span style="color: greenyellow; font-weight: bold;">ODD</span>
+        {% elif nums_result == 'ZERO' %}
+        <span style="color: lightblue; font-weight: bold;">ZERO</span>
+        {% endif %}
+    </h1>
+</body>
+
+</html>

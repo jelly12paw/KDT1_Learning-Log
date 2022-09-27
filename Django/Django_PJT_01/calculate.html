@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculate</title>
+</head>
+
+<body>
+    <h1 style="font-weight: bold;">Let's Do <span style="color: crimson;">Addition</span>　<span
+            style="color: lightsalmon;">Subtraction</span>　<span style="color: yellowgreen;">Multipication</span>　<span
+            style="color: lightblue;">Division</span></h1>
+    <hr>
+    {% load mathfilters %}
+    <h1 style="color: crimson;">{{ num1 }} + {{ num2 }} = {{ num1|add:num2 }}</h1>
+    <h1 style="color: lightsalmon;">{{ num1 }} - {{ num2 }} = {{ num1|sub:num2 }}</h1>
+    <h1 style="color: yellowgreen;">{{ num1 }} * {{ num2 }} = {{ num1|mul:num2 }}</h1>
+    <h1 style="color: lightblue;">{{ num1 }} // {{ num2 }} = {{ num1|div:num2 }}</h1>
+</body>
+
+</html>
