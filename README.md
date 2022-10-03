@@ -27,7 +27,3 @@
     - Visual Studio Code
     - Python 3.9
     - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
-    
-### 💚**4주차** (22.07.25 ~ 22.07.29)
-- 알고리즘 문제풀이
-  - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON) : 문자열
