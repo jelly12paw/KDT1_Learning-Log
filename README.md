@@ -26,4 +26,3 @@
   - 개발 도구
     - Visual Studio Code
     - Python 3.9
-    - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
