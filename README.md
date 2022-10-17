@@ -22,4 +22,3 @@
 - 알고리즘 문제풀이
   - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON) : 입출력과 사칙연산 ~ 함수
   - [SWEA 기초 문제](https://github.com/jelly12paw/Algorithm/tree/main/SWEA) : SWEA 기초 문제 01 ~ SWEA 기초 문제 03
-- [3주차 토이 프로젝트](https://github.com/jelly12paw/01-PJT-02/tree/main/1%ED%9A%8C%EC%B0%A8/%EB%B0%95%ED%98%9C%EC%A7%84)
