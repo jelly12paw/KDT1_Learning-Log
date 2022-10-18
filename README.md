@@ -21,4 +21,3 @@
   - Git 03
 - 알고리즘 문제풀이
   - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON) : 입출력과 사칙연산 ~ 함수
-  - [SWEA 기초 문제](https://github.com/jelly12paw/Algorithm/tree/main/SWEA) : SWEA 기초 문제 01 ~ SWEA 기초 문제 03
