@@ -19,5 +19,3 @@
   - Python_05 ~ Python_09
 - [Git](https://github.com/jelly12paw/TIL/tree/main/Git)
   - Git 03
-- 알고리즘 문제풀이
-  - [백준 단계별로 풀어보기](https://github.com/jelly12paw/Algorithm/tree/main/BAEKJOON) : 입출력과 사칙연산 ~ 함수
