@@ -18,4 +18,3 @@
 - [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
   - Python_05 ~ Python_09
 - [Git](https://github.com/jelly12paw/TIL/tree/main/Git)
-  - Git 03
