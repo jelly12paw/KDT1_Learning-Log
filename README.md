@@ -10,4 +10,3 @@
 
 ### 🧡**2주차** (22.07.11 ~ 22.07.15)
 - [Python 기초 문법](https://github.com/jelly12paw/TIL/tree/main/Python)
-  - Python_01 ~ Python_04_실습_문제
