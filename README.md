@@ -7,5 +7,3 @@
 - [Git](https://github.com/jelly12paw/TIL/tree/main/Git)
   - Git 01 ~ Git 02
 - 특강
-
-### 🧡**2주차**
